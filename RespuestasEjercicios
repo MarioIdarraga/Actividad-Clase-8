@@ -16,4 +16,39 @@ console.log(resultado);
 
 
 Ejercicio 3:
+let palabra1 = "Hola";
+let palabra2 = "Mundo";
 
+let sumaLargos = palabra1.length + palabra2.length;
+
+console.log("La suma de los largos es: " + sumaLargos);
+
+
+Ejercicio 4:
+let mensaje = "javascript básico";
+let mensajeMayus = mensaje.toUpperCase();
+
+console.log(mensajeMayus);
+
+
+Ejercicio 5:
+let texto = "programación";
+let primeros5 = texto.substring(0, 5);
+
+console.log(primeros5);
+
+
+Ejercicio 5:
+let texto = "programación";
+let primeros5 = texto.substring(0, 5);
+
+console.log(primeros5);
+
+Ejercicio 6:
+let palabra = "programación";
+let ultimos3 = palabra.substring(palabra.length - 3);
+
+console.log(ultimos3);
+
+
+Ejercicio 7:
