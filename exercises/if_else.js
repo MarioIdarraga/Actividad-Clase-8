@@ -1,6 +1,6 @@
-*************
+/*************
 17.
-*************
+*************/
 //Crear un número aleatorio entre 0 y 1 utilizando la función Math.random(), si el valor es mayor o igual que 0,5 mostrar una alerta con el mensaje “Greater than 0,5” y sino un alerta con el mensaje “Lower than 0,5”.
 
 let numero = Math.random();
@@ -12,9 +12,9 @@ if (numero >= 0.5) {
 }
 
 
-*************
+/*************
 18.
-*************
+*************/
 //Crear una variable “Age” que contenga un número entero entre 0 y 100 y muestre los siguientes mensajes de alerta:
 //i. “Bebe” si la edad es menor a 2 años;
 //ii. “Niño” si la edad es entre 2 y 12 años;
