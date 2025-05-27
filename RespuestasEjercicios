@@ -1,0 +1,19 @@
+Ejecticio 1:
+let num1 = 8;
+let num2 = 5;
+let suma = num1 + num2;
+
+console.log("La suma es: " + suma);
+
+
+Ejercicio 2:
+
+let texto1 = "Hola";
+let texto2 = " Mundo";
+let resultado = texto1 + texto2;
+
+console.log(resultado);
+
+
+Ejercicio 3:
+
