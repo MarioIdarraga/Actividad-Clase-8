@@ -38,12 +38,6 @@ let primeros5 = texto.substring(0, 5);
 console.log(primeros5);
 
 
-Ejercicio 5:
-let texto = "programación";
-let primeros5 = texto.substring(0, 5);
-
-console.log(primeros5);
-
 Ejercicio 6:
 let palabra = "programación";
 let ultimos3 = palabra.substring(palabra.length - 3);
