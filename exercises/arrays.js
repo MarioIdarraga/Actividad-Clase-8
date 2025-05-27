@@ -60,3 +60,28 @@ meses.reverse();
 console.log(meses);
 
 
+*************
+15.
+*************
+//Unir todos los elementos del array en un único string donde cada mes este separado por un guión - (utilizar join).
+
+let meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", 
+             "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+
+let resultado = meses.join(" - ");
+
+console.log(resultado);
+
+
+*************
+16.
+*************
+//Crear una copia del array de meses que contenga desde Mayo hasta Noviembre (utilizar slice)
+
+let meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", 
+             "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+
+let seleccion = meses.slice(4, 11); 
+
+console.log(seleccion);
+
